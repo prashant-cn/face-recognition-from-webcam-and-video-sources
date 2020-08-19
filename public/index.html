@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Recognition</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        canvas{
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+    <video id="videoInput" width="720" height="550" muted controls>
+
+    <script defer async src="./js/face-api.min.js"></script>
+    <script defer async src="./js/script.js"></script>
+</body>
+</html>

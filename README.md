@@ -30,3 +30,4 @@ For best performance, if you have a dedicated graphic card on your system enable
 
 Ping me at https://www.linkedin.com/in/prashant-kumar-2124b3b4/
 if any of you have any questions, suggestions, feedback or just want to say Hi:)
+Instagram: @prashant_cn
